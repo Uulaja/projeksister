@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "socio-media-v1",
+  "private_key_id": "a59b5cacf61dd3031af97cd73540c5c81ceb4115",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUZZmaUI7fB5ab\nelRufkm0nTVhJVWB60gMqVQeNu9oHoarBSixeU4PD4RbZGWO8WlT5KxZ4h52punM\nuuxwwHKDGCcYn5MR4bK9Cv1su7p+jZik+p2GsvF8yHPVMqW/2U5/PehtXhhyR8+T\nyymjyX5oGxqKByW9Ze5yOKhkiIEvvWp/w7Zeq1hgZVR1ALYvca6Cya1o+w8ibMS3\nDX7/uRwzbSrpwIYBCtHR4/Mwa/GRRPkTmxjhfXJw7nbVShoY0DVhgCnUrRAvC36x\nlhKMmR69MChPON1s9L7POT4B+F8iy6eCVpif9RCucWtaspNzY8PHv2cWmnxNFjdm\nk+s0SXb1AgMBAAECggEAC6szR6OSXdVsZElRtypQAVC7vIUREAytjiiFWw2YlIdM\nzbuAU1O/QpuPIXhADhzcNQQ0pdGC6/DammlQkRc5k1Mx3qvxqANWzwT6DE25/rbn\nwnSUT/CnzLu0hWt9aK9XHS15Bf0r6adhU5TPSlTJEY4fpKKk46Vkdrj/I1rOgiFT\nxQXD2BVMlQj67S1bTlOm8ztNyc0V3VtQE49qgvKghLTE7i3DX0jhJKe9ytqvbmwT\npY4z0ffPBYbNuyhhiKA/OwW0OCMSb481lBDg/ZPfWg59m1lVX6T+Sft1ACd5gUu2\nbmtWgp91RLaywb+Tss3/avJ7gbkaMOZlxp62y9/SEQKBgQDwLA25FuGlib6hIIEb\n9Kedz8RZA7Mx0/9jav2nf4lnnW060A8cOlvv+MrnNmtdNLshtmi5SVSW0JkFX/qD\nkKERTejH2TLsfzKap8kMRpTVid5uJlZwZ102ILjNnPl5Ms0MUFGSDM6PPelxvmI9\n2hi0f3am00lkbbSTg1AMTY7nuQKBgQDiZPNS3I6aCTMg0JXk1lye6Pf2Eoch/ohL\n8LKELgTejCrWeNknuDtP8iI4+hMwEMeNX7IvzV6lkMZnnQxrVmSwuy59wjhLYzmv\ncHlesORChaFQOvLMgyqKWrEAnY75OOS1kIeSk2/jy8Gj5uARvbf4kcY/e+fVf9nA\n0yA4KaBvHQKBgQC/G/7rehaht6LV6dxyl1JNVAdEYZpUmwHMZVVj1CtNJMrHEsoD\nRzjjEhC6vOXf69bAM7rPPVevDlvFGCNqT0qrT1hctis8Xtawk7R6LSu/Y454Dc+Y\nb9eO+6iyDCfDVjYthzfxRHmVJ8m7dagM2Z/w+MA8bUIoRNd8ze+Daq+9GQKBgCyA\nD1wQQm+As24V0gDjKd2KiYLy7WD/OSdELrLQoOBlyN3Tb0vhaLc0LwnoDfF6ut7N\nGqdOxPXiWT1wn0pR9wTOJjtN++bFoEcd4p18Q8HXpnewvpz4g1oirXwjfED8r+gI\ner2TAYFTQcLH1O9nzUusy70ay90pflHqrgCcHg75AoGBAND8dnl1k5VDpqQuaWih\nGEoCKF92Eup4xriM6IaVi0AmuRxTbTbTiKuhSquKV5egJpCc1LXWUKgLEwhX7fh4\nVLgt+MnD1W5RN9jZ7pJCUC1GC2eOeu4tb1s99c1DYnscP4ZrqYLtSz4MkOsnOYZv\nVKY9x7FfrKwPj/QL3pfupXZ5\n-----END PRIVATE KEY-----\n",
+  "client_email": "socio-media-admin@socio-media-v1.iam.gserviceaccount.com",
+  "client_id": "110963130707635944354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/socio-media-admin%40socio-media-v1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
