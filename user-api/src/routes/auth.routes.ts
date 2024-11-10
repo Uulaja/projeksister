@@ -7,7 +7,8 @@ const AuthRoutes = express.Router();
 const upload = multer({ storage: multer.memoryStorage() });
 
 /** PUBLIC */
-AuthRoutes.post('/register', upload.single('attachement'), register);
+// AuthRoutes.post('/register', upload.single('attachement'), register);
+AuthRoutes.post('/register', register);
 AuthRoutes.post('/login', login);
 
 /** PROTECTED */

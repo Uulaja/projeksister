@@ -12,6 +12,7 @@ export const register = async (
     const body = req?.body;
     const attachement = req?.file;
     const { firstName, lastName, email, password, occupation, location } = body;
+    console.log("body", body);
     if (
       !firstName ||
       !lastName ||
@@ -25,17 +26,17 @@ export const register = async (
     console.log("body", body);
     console.log("file", attachement);
 
-    if (attachement) {
-      if (!attachement?.mimetype?.startsWith("image"))
-        throw new ResponseError(400, "Invalid file type");
-      if (attachement.size > 5000000)
-        throw new ResponseError(400, "File size should be less than 1MB");
-    } else {
-      throw new ResponseError(400, "Attachement is required");
-    }
+    // if (attachement) {
+    //   if (!attachement?.mimetype?.startsWith("image"))
+    //     throw new ResponseError(400, "Invalid file type");
+    //   if (attachement.size > 5000000)
+    //     throw new ResponseError(400, "File size should be less than 1MB");
+    // } else {
+    //   throw new ResponseError(400, "Attachement is required");
+    // }
 
-    const uploadResult = await storageHelper.uploadFile(attachement, "profile");
-    body.picturePath = uploadResult?.id;
+    // const uploadResult = await storageHelper.uploadFile(attachement, "profile");
+    // body.picturePath = uploadResult?.id;
 
     const newUser = await AuthService.register(body);
 
